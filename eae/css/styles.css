@@ -1,0 +1,16 @@
+p{
+    margin: 100px;
+}
+
+img{
+    width: 25cm;
+    height: 20cm;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+.carousel-indicators {
+    bottom: 100px;
